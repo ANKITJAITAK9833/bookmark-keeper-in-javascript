@@ -86,8 +86,8 @@ function fetchBookmarks() {
     // Create bookmarks array in localStorage
     bookmarks = [
       {
-        name: "Jacinto Design",
-        url: "http://jacinto.design",
+        name: "Comfy Store",
+        url: " https://ankitjaitak9833.github.io/comfy-store/index.html",
       },
     ];
     localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
